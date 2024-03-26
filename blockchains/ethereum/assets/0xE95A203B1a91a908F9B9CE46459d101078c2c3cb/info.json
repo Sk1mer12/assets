@@ -11,15 +11,15 @@
     "links": [
         {
             "name": "github",
-            "url": "https://github.com/Ankr-network/stkr-smartcontract"
+            "url": "https://github.com/Ankr-network/"
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/Ankr"
+            "url": "https://twitter.com/ankrstaking"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/ankrnetwork"
+            "url": "https://t.me/ankrstaking"
         },
         {
             "name": "medium",
@@ -27,7 +27,7 @@
         },
         {
             "name": "whitepaper",
-            "url": "https://assets.ankr.com/files/stkr_whitepaper.pdf"
+            "url": "https://assets.ankr.com/files/stakefi_litepaper.pdf"
         }
     ]
 }
