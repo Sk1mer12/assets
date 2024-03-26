@@ -1,0 +1,33 @@
+{
+    "name": "ankrETH",
+    "website": "https://www.ankr.com/staking/stake/",
+    "description": "ANKR is the native utility token needed for transactions and payments for many of Ankr services as well as platform governance.",
+    "explorer": "https://optimistic.etherscan.io/token/0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
+    "type": "Optimism",
+    "symbol": "ankrETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Ankr-network/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ankrstaking"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ankrstaking"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/ankr-network"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://assets.ankr.com/files/stakefi_litepaper.pdf"
+        }
+    ]
+}
